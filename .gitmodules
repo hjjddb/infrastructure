@@ -1,0 +1,12 @@
+[submodule "src/filebeat"]
+	path = src/filebeat
+	url = git@github.com:hjjddb/filebeat.git
+[submodule "src/elasticsearch"]
+	path = src/elasticsearch
+	url = git@github.com:hjjddb/elasticsearch.git
+[submodule "src/kibana"]
+	path = src/kibana
+	url = git@github.com:hjjddb/kibana.git
+[submodule "src/nginx"]
+	path = src/nginx
+	url = git@github.com:hjjddb/nginx.git
